@@ -21,4 +21,7 @@
 # Noticed that the hands of the clock touch the inside edge of the circle when it rotated. Lowered the width to 49% and it seemed to have fixed it for now.
 #
 #
+# Using the transition-timing-function I was able to get get a realistic ticking of the clock
 #
+#
+# For the JavaScript I made each hand have its own variable. Created a function of setting the date. Learned about new Date(), getting seconds, minutes, and hours
