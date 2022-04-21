@@ -1,0 +1,15 @@
+:root {
+    font-size:10px;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock {
+    border: 24px solid black;
+    width: 40rem;
+    height: 40rem;
+}
