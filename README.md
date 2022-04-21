@@ -12,7 +12,13 @@
 # Now to change the square into a circle with a border radius property set with a 50% value
 #
 #
-# I had to made the face of the clock relative and the hands absolute to be able to move them within the clock and not change the size of the hands
+# I had to make the face of the clock relative and the hands absolute to be able to move them within the clock and not change the size of the hands
 #
 #
 # Putting a transform of translate 5px on the clock face I was able to show the full length of the clock hands
+#
+#
+# Noticed that the hands of the clock touch the inside edge of the circle when it rotated. Lowered the width to 49% and it seemed to have fixed it for now.
+#
+#
+#
