@@ -25,3 +25,6 @@
 #
 #
 # For the JavaScript I made each hand have its own variable. Created a function of setting the date. Learned about new Date(), getting seconds, minutes, and hours
+#
+#
+# Also learned about the setInterval() function
